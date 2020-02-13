@@ -1,0 +1,1 @@
+sphinx-autobuild --open-browser --re-ignore ".xml" --re-ignore "__jb_old__" --re-ignore ".idea" source build/html
